@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guvenpekdemir I’m currently working on Deep Learning
+- 👋 Hi, I’m @guvenpekdemir I’m currently working on Optimization
 - 👀 I’m interested in data science, exploratory data analysis and machine learning  
 - 📫 How to reach me gpekdemir8@gmail.com
 
